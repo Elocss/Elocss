@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, me llamo eloy alcala</h1>
+<h1 align="center">Hola 👋, me llamo Eloy Alcala</h1>
 <h3 align="center">soy un Front End developer apasionado por la tegnologia</h3>
 
 - 👨‍💻 All of my projects are available at [https://app.aluracursos.com/emprega-one/profile/eloy-ar2018](https://app.aluracursos.com/emprega-one/profile/eloy-ar2018)
