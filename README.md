@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://app.aluracursos.com/emprega-one/profile/eloy-ar2018](https://app.aluracursos.com/emprega-one/profile/eloy-ar2018)
 
-- 💬 Ask me about **Html5, Css3, Javascript, AngularJs, NodeJs, Sql servers**
+- 💬 Ask me about **Html5, Css3, Javascript, Sql servers, Mysql, Java**
 
 - 📫 How to reach me **eloy.ar2018@hotmail.com**
 
